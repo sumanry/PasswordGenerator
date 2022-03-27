@@ -1,0 +1,32 @@
+Jump to navigationJump to search
+Python
+Python-logo-notext.svg
+Paradigm	Multi-paradigm: object-oriented,[1] procedural (imperative), functional, structured, reflective
+Designed by	Guido van Rossum
+Developer	Python Software Foundation
+First appeared	20 February 1991; 31 years ago[2]
+Stable release	
+3.10.4[3] Edit this on Wikidata / 24 March 2022; 2 days ago
+Preview release	
+3.11.0a6[4] Edit this on Wikidata / 7 March 2022; 19 days ago
+Typing discipline	Duck, dynamic, strong typing;[5] gradual (since 3.5, but ignored in CPython)[6]
+OS	Windows, Linux/UNIX, macOS and more[7]
+License	Python Software Foundation License
+Filename extensions	.py, .pyi, .pyc, .pyd, .pyo (prior to 3.5),[8] .pyw, .pyz (since 3.5)[9]
+Website	www.python.org
+Major implementations
+CPython, PyPy, Stackless Python, MicroPython, CircuitPython, IronPython, Jython
+Dialects
+Cython, RPython, Starlark[10]
+Influenced by
+ABC,[11] Ada,[12] ALGOL 68,[13] APL,[14] C,[15] C++,[16] CLU,[17] Dylan,[18] Haskell,[19] Icon,[20] Lisp,[21] Modula-3,[16] Perl, Standard ML[14]
+Influenced
+Apache Groovy, Boo, Cobra, CoffeeScript,[22] D, F#, Genie,[23] Go, JavaScript,[24][25] Julia,[26] Nim, Ring,[27] Ruby,[28] Swift[29]
+ Python Programming at Wikibooks
+Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small- and large-scale projects.[30]
+
+Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a "batteries included" language due to its comprehensive standard library.[31][32]
+
+Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0.[33] Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. Python 3.0, released in 2008, was a major revision that is not completely backward-compatible with earlier versions. Python 2 was discontinued with version 2.7.18 in 2020.[34]
+
+Python consistently ranks as one of the most popular programming languages
